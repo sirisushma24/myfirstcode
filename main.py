@@ -4,9 +4,9 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 
-def print_hi(name):
+def print_hi(names):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'My first code, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+    print(f'My first code, {names}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 
 # Press the green button in the gutter to run the script.
